@@ -1,0 +1,7 @@
+O arquivo criptografia.exe é o executável do código feito em python, ou seja não precisa instalar nada no computador para ele funcionar, ele foi criado por meio do pyinstaller.
+
+Agora caso queira testar o código que está na extensão .py, será necessário realizar a instalação da biblioteca cryptography por meio do terminal utilizando o seguinte trecho de código: "pip install cryptography"
+
+Se for testar o código pelo VS CODE, utilize o trecho de código mencionado anteriormente, no terminal do próprio vs code. Caso esse passo não seja seguido, poderá haver erro de não encontrar o modulo desejado.
+
+Observação: quando aparecer a chave, utilize as teclas "crtl + c" para copiar a chave.

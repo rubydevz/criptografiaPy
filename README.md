@@ -10,9 +10,9 @@ Codigo desenvolvido para a disciplina de criptografia no IFB, com o intuito de e
 ```bash
 git clone https://github.com/rubydevz/criptografiaPy
 ```
-
 2. Instale a linguagem python e suas dependencias no VS Code ou utilize a IDE propria da linguagem.
 3. Utilize o seguinte trecho de codigo no terminal para instalar a biblioteca cryptography.
 ```bash
 pip install cryptography
 ```
+4. Não esqueça de ler o arquivo txt, que contêm algumas instruções.
